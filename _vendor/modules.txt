@@ -1,0 +1,1 @@
+# github.com/zjedi/hugo-scroll v0.0.0-20250604223730-54f7b8543f18
