@@ -16,8 +16,8 @@ This repository is a Minimal Working Example that:
 1. Clone
 
 ```sh
-git clone https://github.com/juanMarinero/hugo-scroll-MWE
-cd hugo-scroll-MWE
+git clone https://github.com/juanMarinero/hugo-scroll-MWE-revised
+cd hugo-scroll-MWE-revised
 ```
 
 2. Build
